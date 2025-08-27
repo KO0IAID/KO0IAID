@@ -19,13 +19,13 @@ In this position, I contribute directly to the development, testing, and refinem
 💻 Technical Skills
 
 Languages & Scripting:
-C, C++, C#, JavaScript, HTML, CSS, SQL, GDScript
+- C, C++, C#, JavaScript, HTML, CSS, SQL, GDScript
 
 Frameworks & Libraries:
-.NET (WPF, MAUI), Node.js, React, XAML
+- .NET (WPF, MAUI), Node.js, React, XAML
 
 Tools & Platforms:
-Visual Studio, Git/GitHub, Godot Engine, Microsoft SQL Server, Windows Presentation Foundation (WPF)
+- Visual Studio, Git/GitHub, Godot Engine, Microsoft SQL Server, Windows Presentation Foundation (WPF)
 
 🎯 Goals
 
