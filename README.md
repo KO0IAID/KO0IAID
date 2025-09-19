@@ -1,6 +1,6 @@
 👋 About Me
 
-I’m recently Technical College graduate with a certificate in Software Development.
+I’m a recent Technical College graduate with a certificate in Software Development.
 
 I also worked as a part-time work-study for their Software Development program for a period of 6 months.
 In the position, I contributed directly to the writing, development, testing, and of the curriculum materials used to teach both foundational and advanced programming. 
