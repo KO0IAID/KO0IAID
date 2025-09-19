@@ -5,7 +5,7 @@ I’m a recent Technical College graduate with a certificate in Software Develop
 I also worked as a part-time work-study for their Software Development program for a period of 6 months.
 In the position, I contributed directly to the writing, development, testing, and of the curriculum materials used to teach both foundational and advanced programming. 
 
-Through the role, I took part in several hands-on, high-impact projects, including:
+Throughout the role, I took part in several hands-on projects, including:
 
 1. VEX Robotics Curriculum – Led the design and launch of a robotics module introducing students to programming through real-world, interactive robotics using the VEX EXP platform.
 
