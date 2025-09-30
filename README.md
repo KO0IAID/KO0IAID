@@ -7,7 +7,7 @@ In the position, I contributed directly to the writing, development, testing, an
 
 Throughout the role, I took part in several hands-on projects, including:
 
-1. VEX Robotics Curriculum – Led the design and launch of a robotics module introducing students to programming through real-world, interactive robotics using the VEX EXP platform.
+1. VEX Robotics Curriculum – Led in the design and launch of robotics curriculum introducing students to programming through real-world, interactive robotics assignments using the VEX EXP platform.
 
 2. Structured Projects – Helped refine advanced coursework where students build a fully functional e-commerce storefront, covering both front-end and back-end development.
 
@@ -19,14 +19,14 @@ Throughout the role, I took part in several hands-on projects, including:
 
 Currently Working on:
 
-1. Learning C++
+1. Learning more C++
 
 2. SpoilerTracker (In Development) – Building a custom software tool that acts as a translation layer between generated YAML-like log files from Ocarina of Time and Majora’s Mask Randomizers and EmoTracker. This tool parses and reformats spoiler logs to json seamlessly integrate with the tracking software, enhancing usability and streamlining the gameplay experience for randomizer players.
 
 💻 Technical Skills
 
 Languages & Scripting:
-- C, C++, C#, JavaScript, HTML, CSS, SQL, GDScript
+- C++, C#, JavaScript, HTML, CSS, SQL, GDScript
 
 Frameworks & Libraries:
 - .NET (WPF, MAUI), Node.js, React, XAML
